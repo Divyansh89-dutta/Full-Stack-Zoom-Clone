@@ -57,10 +57,6 @@ Real-time interactions with top-notch security.
 
 A seamless experience across all devices.
 
-## 🌐 Live Demo
-
-Experience Yoom in action: [Try Yoom Now](zoom-clone-topaz-theta.vercel.app)
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
